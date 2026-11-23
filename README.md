@@ -1,28 +1,29 @@
-![Abdullah Faiyaz Rawoot — Computer Networks & Security at Universiti Teknologi Malaysia](./profile-banner.png)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=239A91&center=true&vCenter=true&width=380&height=35&lines=First-year+CS+student+at+UTM.;Learning+C%2B%2B+and+digital+logic.;Rubik%27s+Cube+in+under+60+seconds." alt="First-year CS student, learning C++ and digital logic, and a sub-minute Rubik’s Cube solver" />
-</p>
+![Abdullah Faiyaz Rawoot — Computer Networks and Security at Universiti Teknologi Malaysia](./network-banner.gif)
 
 ## A bit about me
 
-I’m Abdullah, a first-year Computer Science student at UTM. I’ve been curious about computers for as long as I can remember. Both my parents work in computer science, and my uncle works in cybersecurity. I’ll admit the movies made cybersecurity look pretty cool, too.
+I’m Abdullah, a first-year Computer Science student at UTM in Johor Bahru. I grew up in Kuwait, and computers have been part of my life for as long as I can remember. Both my parents work in computer science, and my uncle works in cybersecurity. The movies made it look pretty cool, too.
 
-What draws me to it is the problem-solving. Physics, maths, and CS are my favourite subjects for the same reason. I’d much rather spend half an hour figuring out why something works than try to learn the answer by heart.
+I like physics, maths, and CS for much the same reason. Once I understand why something works, I can usually figure it out again. That’s what interests me about networks. If everyone in my lecture hall opens the same website, how does each reply find its way back to the right laptop?
 
-## What I’m learning
+## From my first GitHub workshop
 
-| Area | What I’m figuring out |
-| --- | --- |
-| **C++** | Writing small programs and working out why a loop stops one step too early or too late. |
-| **Digital logic** | Turning a Boolean expression into a circuit, then building it again using only NAND gates. |
-| **Networking** | When a lecture hall full of students uses the same Wi-Fi, how does each reply find the right laptop? |
+| The activity at UTM | My first repository |
+| :--- | :--- |
+| ![Projector showing the instructions for our first GitHub repository](./workshop.jpg) | ![My laptop showing my first portfolio README on GitHub](./portfolio.jpg) |
+| Our task was to introduce ourselves and write down three learning goals. | I wrote a README, saved my changes in a commit, and shared the repository link. |
 
-## My first project
+[Open my professional development portfolio ↗](https://github.com/Aboudi1508/professional-development-portfolio)
 
-[**Professional Development Portfolio ↗**](https://github.com/Aboudi1508/professional-development-portfolio)  
-The first repository I made at UTM. It’s where I’m keeping track of what I learn and what I’d like to try next.
+## What I’m learning this semester
 
----
+- **Programming Technique I · C++** — I’m practising loops. I like tracing a short program on paper and predicting its output before I run it.
+- **Digital Logic** — I’m learning to take a Boolean expression, draw its circuit, and work out how to build it using only NAND gates.
+- **Discrete Structure** — I’m working on relations and functions. Drawing arrows between two sets helps me see whether a function is one-to-one or onto.
+- **Technology and Information Systems** — For a group assignment, I interviewed someone working in the field. It gave me a chance to ask about their work firsthand.
 
-**Away from the keyboard** · I can solve a Rubik’s Cube in under a minute. If we’re playing chess, my pick is 10+5.
+## Away from the keyboard
+
+I can solve a Rubik’s Cube in under a minute, and I also solve the 4×4. For chess, I usually play 10+5. Those five extra seconds per move come in handy.
+
+[See my GitHub activity ↗](https://github.com/Aboudi1508?tab=overview)
